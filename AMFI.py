@@ -1,4 +1,3 @@
-import openpyxl
 import requests
 import io
 from openpyxl import load_workbook
